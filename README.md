@@ -4,7 +4,8 @@ Back in 2015, this basic math problem was one of my very first coding exercises
 I did on my own.
 
 Yes, it's far from perfect and it's written in HTML and JavaScript. But, with a
-little bit of patience, it gets the job done! :smiling_face_with_tear:
+little bit of patience, [it gets the job
+done](https://nbe95.github.io/equation-solver/)! :smiling_face_with_tear:
 
 ## Objective
 
